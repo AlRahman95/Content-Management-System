@@ -1,0 +1,45 @@
+home page
+//post?postID=?
+
+use javascript
+//searchpost [searchTerms:title, content, author, date]
+//searchtags [searchTerms:name]
+//searchcategories [searchTerms: name, desc]
+
+//login (response body)
+//logout (response body)
+//userportal
+
+login portal page
+
+//addPost (response body)
+//editPost (response body)
+//approvePost?postID=?
+//deletePost?postID=?
+
+for admins:
+//filterUnapprovedPosts
+
+//addPage
+//editPage
+//deletePage
+
+//addUser
+//editUser
+//promoteUser
+//demoteUser
+//deleteUser
+//displayUser
+
+//page?pageID=?
+
+//addTag
+//editTag
+/deleteTag    
+
+//addCategory
+//editCategory
+/deleteCategory
+
+tag cloud
+
